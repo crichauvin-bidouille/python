@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><enfinity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:dt="http://www.intershop.com/xml/ns/enfinity/6.5/core/impex-dt" xsi:schemaLocation="http://www.intershop.com/xml/ns/enfinity/7.0/xcs/impex catalog.xsd http://www.intershop.com/xml/ns/enfinity/6.5/core/impex-dt dt.xsd" xmlns="http://www.intershop.com/xml/ns/enfinity/7.0/xcs/impex" major="6" minor="1" family="enfinity" branch="enterprise" build="1.0.0.0-SNAPSHOT">
+  <product sku="3946410">
+    <sku>3946410</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_UK_51200_A3946410</custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="4520907">
+    <sku>4520907</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_UK_51200_A4520907</custom-attribute>
+      <custom-attribute name="Image2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>VK_UK_51200_A4520907_I01</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="3294243">
+    <sku>3294243</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_UK_51200_A3294243</custom-attribute>
+      <custom-attribute name="Image2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>VK_UK_51200_A3294243_I01</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="1219900">
+    <sku>1219900</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_24200_A1219900</custom-attribute>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="LogosMarqueWEB"/>
+      <custom-attribute name="PictosWEB2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>Dropship.jpg</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="1219902">
+    <sku>1219902</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_24200_A1219902</custom-attribute>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="LogosMarqueWEB"/>
+      <custom-attribute name="PictosWEB2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>Dropship.jpg</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="1219904">
+    <sku>1219904</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_24200_A1219904</custom-attribute>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="LogosMarqueWEB"/>
+      <custom-attribute name="PictosWEB2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>Dropship.jpg</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="1219903">
+    <sku>1219903</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_24200_A1219903</custom-attribute>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="LogosMarqueWEB"/>
+      <custom-attribute name="PictosWEB2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>Dropship.jpg</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="1280401">
+    <sku>1280401</sku>
+    <short-description xml:lang="en-GB"/>
+    <teaser/>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Description"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_24100_A1280401</custom-attribute>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="LogosMarqueWEB"/>
+      <custom-attribute name="PictosWEB2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>Dropship.jpg</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="1280402">
+    <sku>1280402</sku>
+    <short-description xml:lang="en-GB"/>
+    <teaser/>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Description"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_24100_A1280402</custom-attribute>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="LogosMarqueWEB"/>
+      <custom-attribute name="PictosWEB2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>Dropship.jpg</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="3246876">
+    <sku>3246876</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_18100_A5330853</custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="5330772">
+    <sku>5330772</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_18100_A5330853</custom-attribute>
+      <custom-attribute name="Image2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>VK_PAPER_A3</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="5330826">
+    <sku>5330826</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_18100_A5330853</custom-attribute>
+      <custom-attribute name="Image2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>VK_PAPER_A3</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="5330853">
+    <sku>5330853</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_18100_A5330853</custom-attribute>
+    </custom-attributes>
+  </product>
+  <product sku="1126689">
+    <sku>1126689</sku>
+      <step-quantity>1</step-quantity>
+    <tax-class id="FullTax"/>
+    <custom-attributes>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_EU_21300_A1126689</custom-attribute>
+      <custom-attribute name="Image2" dt:dt="multiple string" xml:lang="en-GB">
+        <value>VK_EU_21300_A1126689_S01</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+</enfinity>
