@@ -5,7 +5,7 @@
     <tax-class id="FullTax"/>
     <custom-attributes>
       <custom-attribute xml:lang="en-GB" dt:dt="string" name="Calculated Warranty"/>
-      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_UK_51200_A3946410</custom-attribute>
+      <custom-attribute xml:lang="en-GB" dt:dt="string" name="ImagesWEB">VK_UK_51200_A3946410ZZ</custom-attribute>
     </custom-attributes>
   </product>
   <product sku="4520907">
